@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nemesis-all-in-one\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-06 13:06+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: nemesis-all-in-one.php:102 nemesis-all-in-one.php:115
+#: nemesis-all-in-one.php:130 nemesis-all-in-one.php:146
+msgid "Nemesis All-in-One"
+msgstr ""
+
+#: nemesis-all-in-one.php:114
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: nemesis-all-in-one.php:116 nemesis-all-in-one.php:131
+msgid "Elementor"
+msgstr ""
+
+#: nemesis-all-in-one.php:129 nemesis-all-in-one.php:145
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: nemesis-all-in-one.php:147
+msgid "PHP"
+msgstr ""
+
+#: admin/admin-page.php:21 admin/admin-page.php:32 admin/templates/admin.php:4
+#: admin/templates/premium-layouts.php:4
+msgid "Nemesis All in One"
+msgstr ""
+
+#: admin/admin-page.php:22
+msgid "Nemesis"
+msgstr ""
+
+#: admin/admin-page.php:33
+msgid "Welcome"
+msgstr ""
+
+#: admin/admin-page.php:41 admin/admin-page.php:42
+#: admin/templates/premium-layouts.php:22
+msgid "Premium Layouts"
+msgstr ""
+
+#: admin/templates/admin.php:11 admin/templates/premium-layouts.php:11
+msgid "Buy Nemesis Pro Theme"
+msgstr ""
+
+#: admin/templates/admin.php:23
+msgid "Welcome to the new and improved"
+msgstr ""
+
+#: admin/templates/admin.php:24
+msgid "Nemesis All in One WordPress Plugin"
+msgstr ""
+
+#: admin/templates/admin.php:25
+msgid "Watch this video below"
+msgstr ""
+
+#: admin/templates/admin.php:25
+msgid "to learn how to create a new page from scratch"
+msgstr ""
+
+#: admin/templates/admin.php:32 admin/templates/premium-layouts.php:25
+msgid "Nemesis Pro Theme"
+msgstr ""
+
+#: admin/templates/admin.php:36
+msgid "Blogger Themes"
+msgstr ""
+
+#: admin/templates/admin.php:40
+msgid "HTML Templates"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:24
+msgid ""
+"Browse our Pro collection of 20+ pre-made Homepages and 29+ Elementor "
+"Widgets coming with"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:36
+msgid "Lifestyle 1"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:38
+#: admin/templates/premium-layouts.php:51
+#: admin/templates/premium-layouts.php:64
+#: admin/templates/premium-layouts.php:77
+#: admin/templates/premium-layouts.php:90
+#: admin/templates/premium-layouts.php:103
+#: admin/templates/premium-layouts.php:116
+#: admin/templates/premium-layouts.php:129
+#: admin/templates/premium-layouts.php:142
+#: admin/templates/premium-layouts.php:155
+#: admin/templates/premium-layouts.php:168
+#: admin/templates/premium-layouts.php:181
+#: admin/templates/premium-layouts.php:194
+#: admin/templates/premium-layouts.php:207
+#: admin/templates/premium-layouts.php:220
+#: admin/templates/premium-layouts.php:233
+#: admin/templates/premium-layouts.php:246
+#: admin/templates/premium-layouts.php:260
+#: admin/templates/premium-layouts.php:273
+#: admin/templates/premium-layouts.php:286
+msgid "Preview"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:49
+msgid "Lifestyle 2"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:62
+msgid "Lifestyle 3"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:75
+msgid "Lifestyle 4"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:88
+msgid "Magazine 1"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:101
+msgid "Nemesis Times"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:114
+msgid "Magazine 2"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:127
+msgid "Magazine 3"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:140
+msgid "Magazine 4"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:153
+msgid "Magazine 5"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:166
+msgid "Newspaper 1"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:179
+msgid "Newspaper 2"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:192
+msgid "Blog 1"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:205
+msgid "Blog 2"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:218
+msgid "Blog 3"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:231
+msgid "Blog 4"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:244
+msgid "Blog 5"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:258
+msgid "Blogzine 1"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:271
+msgid "Blogzine 2"
+msgstr ""
+
+#: admin/templates/premium-layouts.php:284
+msgid "Blogzine 3"
+msgstr ""
+
+#: widgets/post-grids.php:19
+msgid "Nemesis Post Grids"
+msgstr ""
+
+#: widgets/post-grids.php:35
+msgid "Query and Layout"
+msgstr ""
+
+#: widgets/post-grids.php:45
+msgid "Select Category"
+msgstr ""
+
+#: widgets/post-grids.php:56
+msgid "Number of Columns"
+msgstr ""
+
+#: widgets/post-grids.php:61
+msgid "1 Column"
+msgstr ""
+
+#: widgets/post-grids.php:62
+msgid "2 Columns"
+msgstr ""
+
+#: widgets/post-grids.php:63
+msgid "3 Columns"
+msgstr ""
+
+#: widgets/post-grids.php:64
+msgid "4 Columns"
+msgstr ""
+
+#: widgets/post-grids.php:65
+msgid "6 Columns"
+msgstr ""
+
+#: widgets/post-grids.php:76
+msgid "Number of Posts"
+msgstr ""
+
+#: widgets/post-grids.php:86
+msgid "Order by"
+msgstr ""
+
+#: widgets/post-grids.php:91
+msgid "Date"
+msgstr ""
+
+#: widgets/post-grids.php:92
+msgid "Title"
+msgstr ""
+
+#: widgets/post-grids.php:93
+msgid "Modified date"
+msgstr ""
+
+#: widgets/post-grids.php:94
+msgid "Comment count"
+msgstr ""
+
+#: widgets/post-grids.php:95
+msgid "Random"
+msgstr ""
+
+#: widgets/post-grids.php:104
+msgid "Post Offset"
+msgstr ""
+
+#: widgets/post-grids.php:115
+msgid "Post Format"
+msgstr ""
+
+#: widgets/post-grids.php:118 widgets/post-grids.php:899
+msgid "All"
+msgstr ""
+
+#: widgets/post-grids.php:119
+msgid "Gallery"
+msgstr ""
+
+#: widgets/post-grids.php:120
+msgid "Image"
+msgstr ""
+
+#: widgets/post-grids.php:121
+msgid "Video"
+msgstr ""
+
+#: widgets/post-grids.php:122
+msgid "Audio"
+msgstr ""
+
+#: widgets/post-grids.php:123
+msgid "Quote"
+msgstr ""
+
+#: widgets/post-grids.php:124
+msgid "Link"
+msgstr ""
+
+#: widgets/post-grids.php:134
+msgid "Hide categories"
+msgstr ""
+
+#: widgets/post-grids.php:138 widgets/post-grids.php:150
+#: widgets/post-grids.php:162 widgets/post-grids.php:174
+#: widgets/post-grids.php:190 widgets/post-grids.php:329
+#: widgets/post-grids.php:656 widgets/post-grids.php:670
+msgid "Show"
+msgstr ""
+
+#: widgets/post-grids.php:139 widgets/post-grids.php:151
+#: widgets/post-grids.php:163 widgets/post-grids.php:175
+#: widgets/post-grids.php:189 widgets/post-grids.php:330
+#: widgets/post-grids.php:657 widgets/post-grids.php:671
+msgid "Hide"
+msgstr ""
+
+#: widgets/post-grids.php:147
+msgid "Hide author"
+msgstr ""
+
+#: widgets/post-grids.php:159
+msgid "Hide date"
+msgstr ""
+
+#: widgets/post-grids.php:171
+msgid "Hide post format icon"
+msgstr ""
+
+#: widgets/post-grids.php:186
+msgid "Post Image"
+msgstr ""
+
+#: widgets/post-grids.php:199
+msgid "Content Position"
+msgstr ""
+
+#: widgets/post-grids.php:203
+msgid "Top"
+msgstr ""
+
+#: widgets/post-grids.php:204
+msgid "Bottom"
+msgstr ""
+
+#: widgets/post-grids.php:205
+msgid "Caption"
+msgstr ""
+
+#: widgets/post-grids.php:206
+msgid "No Caption"
+msgstr ""
+
+#: widgets/post-grids.php:215
+msgid "Custom Image Height"
+msgstr ""
+
+#: widgets/post-grids.php:218 widgets/post-grids.php:293
+msgid "No"
+msgstr ""
+
+#: widgets/post-grids.php:219 widgets/post-grids.php:294
+msgid "Yes"
+msgstr ""
+
+#: widgets/post-grids.php:231
+msgid "Image Position"
+msgstr ""
+
+#: widgets/post-grids.php:235
+msgid "Center"
+msgstr ""
+
+#: widgets/post-grids.php:236
+msgid "Left"
+msgstr ""
+
+#: widgets/post-grids.php:237
+msgid "Right"
+msgstr ""
+
+#: widgets/post-grids.php:249
+msgid "Image Height"
+msgstr ""
+
+#: widgets/post-grids.php:290
+msgid "Content Center"
+msgstr ""
+
+#: widgets/post-grids.php:302
+msgid "Cut Title"
+msgstr ""
+
+#: widgets/post-grids.php:305 widgets/post-grids.php:567
+msgid "Off"
+msgstr ""
+
+#: widgets/post-grids.php:306 widgets/post-grids.php:566
+msgid "On"
+msgstr ""
+
+#: widgets/post-grids.php:313
+msgid "Title Length"
+msgstr ""
+
+#: widgets/post-grids.php:326
+msgid "Hide Excerpt"
+msgstr ""
+
+#: widgets/post-grids.php:339
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/post-grids.php:356
+msgid "Layout"
+msgstr ""
+
+#: widgets/post-grids.php:365
+msgid "Title Heading Tag"
+msgstr ""
+
+#: widgets/post-grids.php:368
+msgid "H1"
+msgstr ""
+
+#: widgets/post-grids.php:369
+msgid "H2"
+msgstr ""
+
+#: widgets/post-grids.php:370
+msgid "H3"
+msgstr ""
+
+#: widgets/post-grids.php:371
+msgid "H4"
+msgstr ""
+
+#: widgets/post-grids.php:372
+msgid "H5"
+msgstr ""
+
+#: widgets/post-grids.php:373
+msgid "H6"
+msgstr ""
+
+#: widgets/post-grids.php:384
+msgid "Title Typography"
+msgstr ""
+
+#: widgets/post-grids.php:397
+msgid "Text Typography"
+msgstr ""
+
+#: widgets/post-grids.php:409
+msgid "Title Color"
+msgstr ""
+
+#: widgets/post-grids.php:422
+msgid "Title Hover Color"
+msgstr ""
+
+#: widgets/post-grids.php:435
+msgid "Excerpt Color"
+msgstr ""
+
+#: widgets/post-grids.php:448
+msgid "Border Color"
+msgstr ""
+
+#: widgets/post-grids.php:462
+msgid "Meta Color"
+msgstr ""
+
+#: widgets/post-grids.php:477
+msgid "Category Color"
+msgstr ""
+
+#: widgets/post-grids.php:490
+msgid "Image Overlay"
+msgstr ""
+
+#: widgets/post-grids.php:508
+msgid "Grid Control"
+msgstr ""
+
+#: widgets/post-grids.php:516
+msgid "Grids Padding X"
+msgstr ""
+
+#: widgets/post-grids.php:537
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/post-grids.php:562
+msgid "Image Hover Effects"
+msgstr ""
+
+#: widgets/post-grids.php:576
+msgid "Grids Margin"
+msgstr ""
+
+#: widgets/post-grids.php:600
+msgid "List Padding Bottom"
+msgstr ""
+
+#: widgets/post-grids.php:625
+msgid "Caption Distance"
+msgstr ""
+
+#: widgets/post-grids.php:653
+msgid "Grids Border"
+msgstr ""
+
+#: widgets/post-grids.php:667
+msgid "Grids Border Bottom"
+msgstr ""
